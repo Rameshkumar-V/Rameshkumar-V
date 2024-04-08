@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm RAMESHKUMAR V!
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div style="margin: 20px; padding: 10px; background-color: #f0f0f0;">
+
+  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+
 
 #### A Programming Enthusiast from India
 
