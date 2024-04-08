@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm RAMESHKUMAR V!
-
-
-
 #### A Programming Enthusiast from India
+### About Me
+
+
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
 - 🔭 I’m currently working on Python projects
@@ -15,9 +15,6 @@
 - 💬 Ask me about Python
 
 - 😄 Pronouns: He/Him
-
-
-  
 
 <h3 align="left">Connect with me:</h3>
 
