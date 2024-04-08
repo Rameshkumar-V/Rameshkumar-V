@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAMESHKUMAR V</h1>
 <h3 align="center">A Programming Enthusiast from India</h3>
+![HackerRank Problem Solving Rank Badge](https://img.shields.io/badge/HackerRank-Problem%20Solving%20Rank-brightgreen)
+
 
 
 
