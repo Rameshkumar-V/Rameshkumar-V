@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/rameshkumar-v"><img src="https://github-profile-trophy.vercel.app/?username=rameshkumar-v" alt="rameshkumar-v" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning **Popular Frameworks And Languages**
 
@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rameshkumar-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshkumar-v" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vrameshkumar260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrameshkumar260" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vrameshkumar260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrameshkumar260" height="30" width="40" 
+ padding="40px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
