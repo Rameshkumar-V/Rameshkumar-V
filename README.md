@@ -5,6 +5,7 @@
 
 
 
+
 - 🌱 I’m currently learning **Popular Frameworks And Languages**
 
 - 💬 Ask me about **Python**
@@ -22,9 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshkumar-v&show_icons=true&locale=en&layout=compact" alt="rameshkumar-v" margin="80px"/></p>
 
-<p margin="80px">
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshkumar-v&show_icons=true&locale=en" alt="rameshkumar-v"  />
-</p>
 
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkumar-v&" alt="rameshkumar-v" margin="80px"/></p>
