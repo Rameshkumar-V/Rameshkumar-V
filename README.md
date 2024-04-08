@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm RAMESHKUMAR V!
-<div style="margin: 20px; padding: 10px; background-color: #f0f0f0;">
+<div style="margin: 20px; padding: 10px; background-color: #f0f0f0; overflow: hidden;">
+  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="margin-left: 20px;">
+  
 
-  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 
@@ -17,7 +18,9 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 - <a href="https://linkedin.com/in/rameshkumar-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshkumar-v" height="30" width="40" /></a>
-- <a href="https://www.hackerrank.com/vrameshkumar260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrameshkumar260" height="30" width="40" /></a>
+
+  
+- <a href="https://www.hackerrank.com/vrameshkumar260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrameshkumar260" height="50" width="50" /></a>
 </p>
 
 ### 🛠️ Skills
