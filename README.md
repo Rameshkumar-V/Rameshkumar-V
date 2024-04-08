@@ -1,16 +1,21 @@
 ### Hi there 👋, I'm RAMESHKUMAR V!
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 #### A Programming Enthusiast from India
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
 - 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Popular Frameworks And Languages
+
+- 🌱 I’m currently learning
+    -  Popular Frameworks
+    -  Popular Languages
+    -  Tools For Work
+
 - 💬 Ask me about Python
 
 - 😄 Pronouns: He/Him
-- 
+
 
   
 
@@ -18,10 +23,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vrameshkumar260)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/vrameshkumar_)
-
-
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-25D366?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vrameshkumar260)
 
 
