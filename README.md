@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAMESHKUMAR V</h1>
 <h3 align="center">A Programming Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshkumar-v&label=Profile%20views&color=0e75b6&style=flat" alt="rameshkumar-v" /> </p>
 
-<p align="left"> <a href="https://github.com/rameshkumar-v"><img src="https://github-profile-trophy.vercel.app/?username=rameshkumar-v" alt="rameshkumar-v" margin="80px"/></a> </p>
 
 
 
@@ -24,6 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshkumar-v&show_icons=true&locale=en&layout=compact" alt="rameshkumar-v" margin="80px"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshkumar-v&show_icons=true&locale=en" alt="rameshkumar-v" margin="80px" /></p>
+<p margin="80px">
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshkumar-v&show_icons=true&locale=en" alt="rameshkumar-v"  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkumar-v&" alt="rameshkumar-v" margin="80px"/></p>
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkumar-v&" alt="rameshkumar-v" margin="80px"/></p>
