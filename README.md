@@ -5,6 +5,7 @@
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
+<br>
 - 🔭 I’m currently working on Python projects
 
 - 🌱 I’m currently learning
@@ -26,6 +27,7 @@
 
 ### 🛠️ Skills
 
+<p align="center">
 #### Programming Languages:
 - <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -63,3 +65,4 @@
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshkumar-v&layout=compact)](https://github.com/rameshkumar-v/github-readme-stats)
+</p>
