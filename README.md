@@ -1,6 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm RAMESHKUMAR V!
 #### A Passionate Developer & Programming Enthusiast from India
 
+
+### 🌐 Connect with Me
+<p align="left">
+    <a href="https://linkedin.com/in/rameshkumar-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://instagram.com/vrameshkumar_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
+    <a href="https://www.hackerrank.com/vrameshkumar260" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-25D366?style=flat-square&logo=HackerRank&logoColor=white"></a>
+</p>
+
+---
 ### About Me
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
@@ -71,26 +80,10 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-    <a href="https://linkedin.com/in/rameshkumar-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://instagram.com/vrameshkumar_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
-    <a href="https://www.hackerrank.com/vrameshkumar260" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-25D366?style=flat-square&logo=HackerRank&logoColor=white"></a>
-</p>
-
----
-
 ### 🌟 My Mission
 
 As a passionate developer, I focus on delivering high-quality software solutions through **clean code** and **efficient problem-solving**. My passion for programming fuels my desire to build **innovative solutions** that impact the real world. Whether it's through **AI-based automation**, **full-stack web development**, or **data analysis**, I strive to learn and apply the best practices in every project.
 
 ---
 
-### 📝 In the Future
-- Expand my knowledge in **Cloud Technologies** (AWS, GCP, Azure)
-- Build scalable **Microservices**
-- Learn more about **AI/ML** for business automation
 
----
-
-Let me know if you need further changes or improvements!
