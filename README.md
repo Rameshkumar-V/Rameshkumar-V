@@ -26,8 +26,8 @@
 
 #### **Frameworks and Libraries:**
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" alt="Flask" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt5" width="40" height="40" />
 </p>
