@@ -35,17 +35,17 @@
 
 #### **Frameworks and Libraries:**
 <p align="left">
-    <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django" width="40" height="40" />
-    <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" alt="Flask" width="40" height="40" />
+<!--     <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django" width="40" height="40" /> -->
+<!--     <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" alt="Flask" width="40" height="40" /> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt5" width="40" height="40" />
 </p>
 
 #### **Databases:**
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> -->
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> -->
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
 </p>
