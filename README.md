@@ -2,11 +2,11 @@
 ### Backend Developer (Python 3 – Proficient) | Node.js (Familiar) | Full-Stack | GenAI Enthusiast
 
 
-I am a **Python-focused backend developer** with hands-on experience from **2 internships**  
+- I am a **Python-focused backend developer** with hands-on experience from **2 internships**  
 (1 onsite – 3 months, 1 online – 3 months) and multiple real-world projects.
 
-I specialize in building **reliable, production-ready APIs** designed to **handle high request volumes**, with a strong focus on **database optimization, performance, and scalability**.  
-I enjoy designing backend logic that remains stable and maintainable as systems grow to **large-scale usage**.
+- I specialize in building **reliable, production-ready APIs** designed to **handle high request volumes**, with a strong focus on **database optimization, performance, and scalability**.  
+- I enjoy designing backend logic that remains stable and maintainable as systems grow to **large-scale usage**.
 
 **Disclaimer:** I am a concept-driven tech enthusiast. While **Python** is my core language, I work across multiple frameworks and languages, applying the same backend principles and optimizations wherever needed.
 
@@ -140,14 +140,6 @@ I am learning how to:
 - Use **CrewAI & agent-based workflows**
 - Apply AI where it **actually adds value**, not hype
 
----
-
-## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshkumar-v&layout=compact" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
