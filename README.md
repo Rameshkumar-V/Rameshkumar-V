@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm RAMESHKUMAR V!
-#### A Passionate Developer & Programming Enthusiast from India
+#### A Passionate Software Developer & Tech Enthusiast from India
 
 
 ### 🌐 Connect with Me
@@ -14,13 +14,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
 
-- 🔭 I’m currently working on **cutting-edge Python projects** for **automation**, **data analysis**, and **AI-based solutions**  
-- 🌱 I’m currently learning:  
-    - Popular Frameworks: Django, Flask, FastAPI  
-    - Popular Languages: Python, JavaScript (MERN Stack Basics)  
-    - Tools: Git, Docker, Redis  
-- 💬 Ask me about **Python**, **Django**, **Flask**, **FastAPI**, and **MERN Stack**  
-- 😄 Pronouns: He/Him  
+- 🔭 I’m  Rameshkumar V  currently focusing on Backend Development and Building Intelligent application with help of LLM.
+- 🌱 I’m currently looking : Backend Developer, Python Developer, Fullstack Python Developer, Software Developer Internship Opportunity.
+
 
 ---
 
@@ -36,7 +32,7 @@
 #### **Frameworks and Libraries:**
 <p align="left">
 <!--     <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" alt="Django" width="40" height="40" /> -->
-<!--     <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" alt="Flask" width="40" height="40" /> -->
+    <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" alt="Flask" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="PyQt5" width="40" height="40" />
 </p>
@@ -49,18 +45,18 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
 </p>
-
-#### **API Development:**
-<p align="left">RESTful API Design and Implementation (Flask, Django, FastAPI)</p>
+#### What I do For Your Need: 
+#### **Backend Development (API Development) :**
+<p align="left">RESTful API Design and Implementation (Python 3 : Flask, Django, FastAPI, Javascript ES6 : Express Js)</p>
 
 #### **Web Development:**
 <p align="left">
-    Responsive Web Design and Development (HTML5, CSS3, Bootstrap, React)
+    Responsive Web Design and Development (HTML5, CSS3, Bootstrap, React Js 18)
 </p>
 
 #### **Data Analysis:**
 <p align="left">
-    Data Cleaning, Manipulation, and Visualization (Pandas, Matplotlib, Seaborn)
+    Data Cleaning, Manipulation, and Visualization (Pandas, Matplotlib, Seaborn), Manipulating Files like Excel,CSV, other files using python 3.
 </p>
 
 #### **Tools:**
