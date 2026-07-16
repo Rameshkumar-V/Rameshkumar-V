@@ -15,9 +15,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vrameshkumar260)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=RAMESHKUMAR-V&color=blueviolet&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/RAMESHKUMAR-V?label=Followers&style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/RAMESHKUMAR-V?label=Stars&style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=rameshkumar-v&color=blueviolet&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/rameshkumar-v?label=Followers&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/rameshkumar-v?label=Stars&style=flat-square&color=yellow)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="quick-snapshot.svg" alt="Quick Snapshot" width="880"/>
+<img src="./quick-snapshot.svg" alt="Quick Snapshot" width="880"/>
 
 </div>
 
@@ -150,10 +150,10 @@ AI-native full-stack engineer shipping products end to end — **React/Next.js**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAMESHKUMAR-V&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMESHKUMAR-V&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameshkumar-v&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshkumar-v&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAMESHKUMAR-V&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshkumar-v&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -174,10 +174,6 @@ AI-native full-stack engineer shipping products end to end — **React/Next.js**
 
 <div align="center">
 
-*Prompt, context, agent, code — one system, built to scale.*
-
-📩 Open to full-time roles and select project collaborations — let's talk.
-
-![Wave](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+Rameshkumar V · AI Full-Stack Engineer
 
 </div>
