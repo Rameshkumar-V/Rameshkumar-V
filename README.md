@@ -1,191 +1,183 @@
-## 👋 Hi, I’m RAMESHKUMAR V  
-### Backend Developer (Python 3 – Proficient) | Node.js (Familiar) | Full-Stack | GenAI Enthusiast
+<div align="center">
 
+# 👋 Hi, I'm Rameshkumar V
 
-- I am a **Python-focused backend developer** with hands-on experience from **2 internships**  
-(1 onsite – 3 months, 1 online – 3 months) and multiple real-world projects.
+### AI Full-Stack Engineer
 
-- I specialize in building **reliable, production-ready APIs** designed to **handle high request volumes**, with a strong focus on **database optimization, performance, and scalability**.  
-- I enjoy designing backend logic that remains stable and maintainable as systems grow to **large-scale usage**.
+*I design and ship AI-powered products — from interface to backend to autonomous agents.*
 
-**Disclaimer:** I am a concept-driven tech enthusiast. While **Python** is my core language, I work across multiple frameworks and languages, applying the same backend principles and optimizations wherever needed.
+**React & Next.js · FastAPI · PostgreSQL · Agentic AI Systems**
 
-🌐 **Portfolio:** https://rameshkumar-v.web.app  
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rameshkumar-v.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rameshkumar-v)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vrameshkumar260)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 🎯 Roles That Fit My Skill Set
+![Profile Views](https://komarev.com/ghpvc/?username=RAMESHKUMAR-V&color=blueviolet&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RAMESHKUMAR-V?label=Followers&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/RAMESHKUMAR-V?label=Stars&style=flat-square&color=yellow)
 
-Based on my current skills and project experience, I am best suited for:
+</div>
 
-- ✅ **Backend Developer (Python)**
-- ✅ **Python Developer**
-- ✅ **Full Stack Developer**
-- ✅ **Software Developer Intern / Trainee**
-- ✅ **Backend Developer – AI/LLM Projects (Entry Level)**
+<br/>
 
-> I am a fresher, but I already think and work like a backend engineer — not just a framework user.
+## 📌 Quick Snapshot
 
----
+<div align="center">
+
+<img src="quick-snapshot.svg" alt="Quick Snapshot" width="880"/>
+
+</div>
+
+<details>
+<summary>🔍 Plain-text version (accessibility)</summary>
+<br/>
+
+| | |
+|---|---|
+| 👨‍💻 **Role** | AI Full-Stack Engineer |
+| 🎓 **Experience** | 2 internships + independent AI/full-stack projects |
+| 🌍 **Location** | India |
+| 🚀 **Focus** | AI-powered apps — React/Next.js + FastAPI + agents |
+| 🤖 **Learning** | Prompt, context & agentic engineering |
+| 🎯 **Open To** | Full-time roles · AI product collaborations |
+
+</details>
+
+<br/>
+
+> 💡 **Fresher by title, engineer by practice — I design systems, not just write code.**
+
+<br/>
 
 ## 🧠 About Me
 
-I am a **backend-focused developer** with a strong foundation in **Python programming** and hands-on experience gained through **internships and self-driven projects**.
+AI-native full-stack engineer shipping products end to end — **React/Next.js** interfaces, **Python/FastAPI** backends, **PostgreSQL** data layers, and **agentic AI workflows** — treating prompt and context design as engineering, not guesswork.
 
-I am comfortable working on **API development**, **database-driven systems**, and **authentication workflows**, and I collaborate effectively with frontend layers using **JavaScript** when needed.
+<br/>
 
-I am currently exploring **LLM-based intelligent applications** and how AI can be practically integrated into backend systems.
+## 🛠️ Tech Stack
 
-I value **clean code, clear structure, and strong backend fundamentals**, and I prefer building solutions that are **reliable, maintainable, and scalable** rather than flashy demos.
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
+**Backend**
 
-## 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🐍 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</p>
+**Database**
 
-- **Python** – strong proficiency (primary language)
-- JavaScript (ES6) – working knowledge
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**AI Tooling**
 
-### ⚙️ Backend Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=ffffff" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40"/>
-</p>
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-6E56CF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-- FastAPI – async APIs, modern backend
-- Flask – lightweight services
-- Django – authentication & full-stack backend
-- PyQt5 – desktop applications
-- Express Js - (Built In) async APIs, Works Well with conurrency and websockets.
+**Cloud & DevOps**
 
----
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🗄️ Databases & Caching
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-</p>
+**Tools**
 
-- PostgreSQL  
-- SQLite  
-- Redis  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<div align="center">
 
-### 🌐 Web (Supporting Skills)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=py,fastapi,react,nextjs,postgres,gcp,docker,bash,githubactions,git,github)
 
-- HTML5, CSS3, Bootstrap  
-- React.js 18 (basic to intermediate)
+</div>
 
----
+<br/>
 
-### 📊 Data & Automation
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
-</p>
+## 🗂️ Other Skills
 
-- Pandas – data cleaning & manipulation
-- Matplotlib, Seaborn
-- CSV / Excel / file automation using Python
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+<div align="center">
 
-### 🧰 Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</p>
+![Skills](https://skillicons.dev/icons?i=js,flask,django,nodejs,express,qt,sqlite,redis,html,css,bootstrap,linux)
 
-- Git & GitHub  
-- REST API testing tools  
-- Linux basics  
+</div>
 
----
+<br/>
 
-## 🧠 Backend Concepts I Work With
+## ✅ Core Skills
 
-- RESTful API design
-- Authentication & authorization
-- Service & repository pattern
-- Async vs sync execution
-- Database schema design
-- Error handling & logging
-- Clean code & modular structure
+| | |
+|---|---|
+| ✅ Prompt Engineering | ✅ Context Engineering |
+| ✅ Agentic Engineering | ✅ Sub-Agent Management |
+| ✅ RESTful API Design | ✅ Full-Stack Architecture |
+| ✅ Database Design | ✅ Clean, Modular Code |
+| ✅ Containerization (Docker) | ✅ CI/CD Pipelines |
+| ✅ GCP VM Management | ✅ Shell Scripting |
 
----
+<br/>
 
-## 🤖 AI & LLM Interest (Early but Practical)
+## 🎯 What I'm Suited For
 
-I am learning how to:
-- Integrate **LLMs with backend systems**
-- Build **AI-powered APIs**
-- Use **CrewAI & agent-based workflows**
-- Apply AI where it **actually adds value**, not hype
+- ✅ AI Full-Stack Engineer
+- ✅ Python / FastAPI Backend Developer
+- ✅ React / Next.js Developer
+- ✅ Cloud & DevOps (GCP, Docker, CI/CD)
+- ✅ AI Product Builds — from prompt design to shipped feature
 
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAMESHKUMAR-V&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMESHKUMAR-V&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAMESHKUMAR-V&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br/>
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/rameshkumar-v">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://www.hackerrank.com/vrameshkumar260">
-    <img src="https://img.shields.io/badge/HackerRank-Practice-green?style=flat-square&logo=hackerrank"/>
-  </a>
-  <a href="https://instagram.com/vrameshkumar_">
-    <img src="https://img.shields.io/badge/Instagram-Personal-pink?style=flat-square&logo=instagram"/>
-  </a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rameshkumar-v"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rameshkumar-v.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/vrameshkumar260"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://instagram.com/vrameshkumar_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+<br/>
 
 ---
 
-## 🚀 What I’m Looking For
+<div align="center">
 
-An opportunity where I can:
-- Work on **real backend systems that serve Million of Peoples**
-- Learn from experienced engineers
-- Improve code quality & system design
-- Grow into a **Backend Developer**
-- 
-## 💡 Inspired By
+*Prompt, context, agent, code — one system, built to scale.*
 
-My interest in backend development did not start from tutorials alone — it started by **observing how real-world products work at massive scale**.
+📩 Open to full-time roles and select project collaborations — let's talk.
 
-- **Meta (Facebook, Instagram)**  
-  I was inspired by how Meta uses **Python and Django** to power platforms used by **billions of people every day**.  
-  The idea that clean backend logic and smart algorithms can influence how an entire generation connects and communicates deeply motivated me to learn backend systems seriously.
+![Wave](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-- **Uber**  
-  Uber showed me something powerful: **speed is not only about the language, but about design**.  
-  Even with Python and Flask — often called “slow” — Uber handles **real-time location, pricing, and travel data** for millions of rides.  
-  This taught me that **well-optimized backend architecture matters more than hype**.
-
-- **FastAPI**  
-  FastAPI inspired me as a modern bridge between **performance and simplicity**.  
-  Its async nature, clean structure, and speed made me realize that Python can compete confidently in **high-performance API systems** without losing readability.
-
-- **Why Python**  
-  Python feels like a superpower because it lets me **focus on thinking, not fighting syntax**.  
-  It is trusted by the biggest industries — from backend systems to AI — and that trust comes from its **clarity, flexibility, and reliability**.  
-  Python is not just a language to me; it is the **core tool through which I turn ideas into working systems**.
-
-
-
-📩 *If my profile fits your team, feel free to connect.*
+</div>
